@@ -1,3 +1,3 @@
-## spring-app
+## Spring app
 
-This is test spring project wich is work
+This is test spring project witch is work
